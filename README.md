@@ -4,7 +4,7 @@ I made this project to measure distance using an HC-SR04 ultrasonic sensor and s
 
 Everything here is written completely bare-metal in C using direct register access on the STM32F103C8T6 (Blue Pill). I did not use the STM32 HAL libraries for this because I think writing directly to registers helps you understand what the hardware is actually doing under the hood.
 
-![Project Setup](gallery_image_1792003332014.jpg)
+![Project Setup](images/proj1.jpg)
 
 ## Why I Built It This Way
 
